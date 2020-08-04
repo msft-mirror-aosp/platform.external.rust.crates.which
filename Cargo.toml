@@ -12,7 +12,7 @@
 
 [package]
 name = "which"
-version = "4.0.1"
+version = "4.0.2"
 authors = ["Harry Fei <tiziyuanfang@gmail.com>"]
 description = "A Rust equivalent of Unix command \"which\". Locate installed executable in cross platforms."
 documentation = "https://docs.rs/which/"
