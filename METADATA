@@ -6,8 +6,8 @@ third_party {
     value: "https://crates.io/crates/which"
   }
   url {
-    type: GIT
-    value: "https://github.com/harryfei/which-rs.git"
+    type: ARCHIVE
+    value: "https://static.crates.io/crates/which/which-4.0.2.crate"
   }
   version: "4.0.2"
   license_type: NOTICE
