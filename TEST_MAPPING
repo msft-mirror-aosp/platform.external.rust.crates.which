@@ -8,7 +8,7 @@
       "name": "keystore2_test"
     },
     {
-      "name": "vpnprofilestore_test"
+      "name": "legacykeystore_test"
     }
   ]
 }
