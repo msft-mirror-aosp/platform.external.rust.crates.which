@@ -32,4 +32,4 @@ rust_library {
 
 // dependent_library ["feature_list"]
 //   either-1.6.1 "default,use_std"
-//   libc-0.2.92 "default,std"
+//   libc-0.2.98 "default,std"
