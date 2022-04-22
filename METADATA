@@ -7,13 +7,13 @@ third_party {
   }
   url {
     type: ARCHIVE
-    value: "https://static.crates.io/crates/which/which-4.2.4.crate"
+    value: "https://static.crates.io/crates/which/which-4.2.5.crate"
   }
-  version: "4.2.4"
+  version: "4.2.5"
   license_type: NOTICE
   last_upgrade_date {
     year: 2022
-    month: 3
-    day: 1
+    month: 4
+    day: 18
   }
 }
